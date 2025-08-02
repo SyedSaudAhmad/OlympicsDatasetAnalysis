@@ -4,5 +4,5 @@ pandas
 matplotlib
 seaborn
 plotly
-plotly-express
-plotly-figure_factory
+# plotly-express
+# plotly-figure_factory
